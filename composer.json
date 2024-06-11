@@ -3,6 +3,7 @@
     "description": "HTMLMin Is A Simple HTML Minifier For Laravel 11",
     "keywords": ["laravel", "framework", "html minifier", "html", "minifier", "HTMLMin", "Laravel HTMLMin", "Laravel-HTMLMin"],
     "license": "MIT",
+    "homepage": "https://github.com/dmeys/Laravel-HTMLMin",
     "authors": [
         {
             "name": "Dmytro Zadyraka",
