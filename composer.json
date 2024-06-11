@@ -5,12 +5,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Graham Campbell",
-            "email": "graham@alt-three.com"
-        },
-        {
-            "name": "Raza Mehdi",
-            "email": "srmk@outlook.com"
+            "name": "Dmytro Zadyraka",
+            "email": "dzadyraka@gmail.com"
         }
     ],
     "require": {
