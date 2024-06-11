@@ -17,7 +17,7 @@ Laravel HTMLMin requires [PHP](https://php.net) 5.5+. This particular version su
 To get the latest version, simply require the project using [Composer](https://getcomposer.org):
 
 ```bash
-$ composer require htmlmin/htmlmin
+$ composer require dmeys/htmlmin
 ```
 
 Once installed, register the service provider in your `config/app.php`
